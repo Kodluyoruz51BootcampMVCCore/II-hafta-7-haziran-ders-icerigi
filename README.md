@@ -1,5 +1,5 @@
 # 7  HAZİRAN 2020 / 10:00 / Kodluyoruz .Net Core Bootcamp
-.
+
 ## Ders Akışı 
 1. [Oreilly](https://www.oreilly.com/) Online Ek Kaynağı gösterildi.
 2. Şahin Yanlık ‘ın başlatmış olduğu aspnet core gitbook kaynağı incelenmeye başlandı.
